@@ -1,9 +1,13 @@
-#             I'm Quaid Sage 👋
+# Welcome to my page 👋
 
 ## ✨ About me
-I am a third year software engineering student studying at The University of Auckland.
+I'm Quaid Sage, a third year software engineering student from New Zealand, currently studying at The University of Auckland.
 
 ## ⌨ Skills / Tech Stack
 ### Languages:
 
-### Technologies:
+### Technologies: 
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+## Contact me
+
