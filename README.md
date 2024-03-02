@@ -4,9 +4,9 @@
 I'm Quaid Sage, a third year software engineering student from New Zealand, currently studying at The University of Auckland.
 
 #### 🐱‍💻 What I am working on:
- * Furthering my understanding of C++ and the OpenGL API.
  * Continuing to work on my portfolio website <a href="https://quaidsage.com" targert="_blank">quaidsage.com</a>.
  * Creating a fullstack web application and furthering my understanding of the technologies used.
+ * Furthering my understanding of C++ and the OpenGL API.
  
 
 ## ⌨ Skills / Tech Stack
