@@ -3,7 +3,13 @@
 # ✨ About me
 I'm Quaid Sage, a third year software engineering student from New Zealand, currently studying at The University of Auckland.
 
-# ⌨ Skills / Tech Stack
+What I am working on:
+ * Furthering my understanding of C++ and the OpenGL API.
+ * Continuing to work on my portfolio website <a href="https://quaidsage.com" targert="_blank">quaidsage.com</a>.
+ * Creating a fullstack web application and furthering my understanding of the technologies used.
+ 
+
+## ⌨ Skills / Tech Stack
 #### 📚 Languages: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
  
