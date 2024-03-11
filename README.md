@@ -1,6 +1,4 @@
-## 👋
-
-# About me
+# 🔹About me
 I'm Quaid Sage, a third year software engineering student from New Zealand, currently studying at The University of Auckland. 
 
 #### 👨‍💻 What I am working on:
