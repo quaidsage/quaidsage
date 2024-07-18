@@ -3,7 +3,7 @@ I'm Quaid Sage, a third year software engineering student from New Zealand, curr
 
 #### ⌨ What I am working on:
  * Continuing to work on my portfolio website <a href="https://quaidsage.com" targert="_blank">quaidsage.com</a>.
- * Developing a grid-based physics sandbox in Javascript.
+ * Developing additional features for my grid-based physics simulator built in TypeScript
  * Furthering my understanding of C++ and the OpenGL API.
  
 
